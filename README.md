@@ -1,0 +1,1 @@
+EduConsultancy is a comprehensive platform designed to help students find educational consultants and services. It allows users to browse consultants, book appointments, and access educational resources for a better learning experience.
